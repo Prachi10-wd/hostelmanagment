@@ -147,12 +147,6 @@ Room.details()  ──► Sets room_available = True/False
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ Author
 
 Made with ❤️ as a Python OOP learning project.  
